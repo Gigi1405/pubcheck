@@ -1,0 +1,6 @@
+title="The Movie"
+authors="Gigi"
+year=2012
+venue="Herford"
+doi=""
+source="https://www.scribbr.de/richtig-zitieren/doi/"
